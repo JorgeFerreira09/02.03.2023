@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-size: 48px;
+    text-decoration-line: overline underline;
+}
+
+div {
+    background-color: lavender;
+    border: 10px solid crimson;
+    width: 350px;
+    padding: 50px 50px 50px 50px;
+    margin: 20px;
+    font-size: 18px;
+    text-indent: 50px;
+}

@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border box;
+}
+
+input, textarea {
+    width: 95%;
+    height: 95%;
+}
+
+.caixa {
+    background-color: cornflowerblue;
+    width: 300px;
+    border: 10px solid cornflowerblue;
+    padding: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+

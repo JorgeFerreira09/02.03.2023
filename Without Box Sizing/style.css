@@ -1,0 +1,17 @@
+.div1 {
+    width: 300px;
+    height: 100px; 
+    border: 2px solid violet;   
+}
+
+.div2 {
+    width: 300px;
+    height: 100px; 
+    border: 2px solid olive;
+    padding: 50px;
+}
+
+/*
+    Você especificando o padding em 50px, acontecerá esse problema.
+    A solução é usar a propriedade box-sizing para as duas caixas ficarem do mesmo tamanho. 
+*/
